@@ -47,3 +47,29 @@ h1{
     padding-left: 120px;
     padding-top: 20px;
 }
+.center{
+    text-align: center; 
+}
+.img-box{
+    background-color: rgb(252, 243, 243);
+    box-shadow: 10px 10px 10px white;
+    padding: 20px;
+    margin: 2%;
+    border-radius: 15px; 
+}
+.azad{
+    width: 100%;
+}
+.footer{
+    background-color: turquoise;
+    text-align: center;
+}
+.sky-blue{
+ color: rgb(63, 139, 110);
+}
+span{
+    color: yellow;
+}
+.orange{
+    color: white;
+}
