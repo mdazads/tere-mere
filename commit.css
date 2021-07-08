@@ -1,0 +1,39 @@
+body{
+    margin-top: 4px;
+   font-family: Arial, sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.flex{
+    display: flex;
+}
+#orange{
+    color: chocolate;
+}
+.linked{
+    background-image: linear-gradient(blue, skyblue);
+    padding: 8px 20px;
+    text-decoration: none;
+    border-radius: 30px;
+}
+
+.size{
+    width: 50% ;
+    margin-left: 14px;
+  
+    
+}
+.size img{
+    width: 100%;
+    height: 400px;
+    padding-bottom: 100px;
+   
+ 
+   
+}
+.display{
+    background-image: url(back.png);
+    height: 450px;
+    width: 100%; 
+}
