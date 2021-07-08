@@ -37,3 +37,6 @@ h1{
     height: 450px;
     width: 100%; 
 }
+
+.bg-img{
+    background-image: url(gat.png);
